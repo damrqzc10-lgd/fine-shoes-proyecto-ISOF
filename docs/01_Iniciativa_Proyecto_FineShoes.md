@@ -72,11 +72,11 @@ Historias de usuario principales definidas en el backlog:
 
 | Nombre | Rol |
 | ------ | --- |
-| [Carlos Manuel Iriarte Meza] | Líder de Proyecto / Scrum Master |
-| [David Arturo Márquez Castro] | Analista de Requerimientos |
-| [Rogelio Guerrero Valenzuela] | Desarrollador Backend (Dev A) |
-| [Yang Paulo Sánchez Zambada] | Desarrollador Frontend (Dev B) |
-| [Juan Carlos Corrales Ochoa] | Tester / QA |
+| Carlos Manuel Iriarte Meza | Líder de Proyecto / Scrum Master |
+| David Arturo Márquez Castro | Analista de Requerimientos |
+| Rogelio Guerrero Valenzuela | Desarrollador Backend (Dev A) |
+| Yang Paulo Sánchez Zambada | Desarrollador Frontend (Dev B) |
+| Juan Carlos Corrales Ochoa | Tester / QA |
 
 ## 9. Riesgos
 
