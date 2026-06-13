@@ -1,10 +1,12 @@
 # Backlog de Historias de Usuario - Fine Shoes
 
-Equipo de **4 o más integrantes**. Se aplica el principio de "Divide y Vencerás"
+Equipo de 5 integrantes.
+
+Se aplica el principio de "Divide y Vencerás"
 (descomposición de épicas), separando Backend, Frontend y QA, para permitir
 trabajo paralelo sin pisarse el código (conflictos de Git).
 
-Roles sugeridos:
+Roles:
 
 - **Dev A** – Backend (FastAPI / Python / MySQL)
 - **Dev B** – Frontend (HTML/CSS/JS - vistas cliente)
