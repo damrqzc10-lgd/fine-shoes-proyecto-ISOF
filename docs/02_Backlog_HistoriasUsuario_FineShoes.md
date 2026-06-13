@@ -270,3 +270,5 @@ Ejemplo de arranque del Sprint 1:
 
 Cuando alguien termina, pasa su tarjeta a "Pruebas/QA" para *Code Review* y toma
 la siguiente tarjeta disponible del backlog.
+
+Nota: durante la planificación en Trello, algunas historias de usuario fueron subdivididas en tareas más pequeñas para facilitar el trabajo paralelo del equipo.
