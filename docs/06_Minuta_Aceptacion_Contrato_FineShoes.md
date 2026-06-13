@@ -4,35 +4,35 @@
 
 | Número Versión | Fecha Versión | Tipo Cambio | Dueño/Autor | Aprobado por | Fecha Revisión/Expiración |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [DD/MM/AAAA] | Creación de documento | [Nombre] | [Nombre] | [DD/MM/AAAA] |
+| 1 | 04/06/2026 | Creación de documento | David Arturo Márquez Castro | Carlos Manuel Iriarte Meza | 12/06/2026 |
 
 ## Datos de la Reunión
 
 | Reunión # | Objetivo | Fecha de Elaboración |
 | --- | --- | --- |
-| 3 | Reunión de Aceptación de Contrato | [DD/MM/AAAA] |
+| 3 | Reunión de Aceptación de Contrato | 04/06/2026 |
 
 | Lugar | Fecha | Hora | Convocada por |
 | --- | --- | --- | --- |
-| [Salón / Plataforma] | [DD/MM/AAAA] | [HH:MM] | [Nombre] |
+| Sala de juntas / Google Meet | 04/06/2026 | 17:00 | Carlos Manuel Iriarte Meza |
 
 ## Asistentes
 
 | Nombre | Rol |
 | --- | --- |
-| [Integrante 1] | Líder de Proyecto |
-| [Integrante 2] | Analista de Requerimientos |
-| [Integrante 3] | Desarrollador Backend |
-| [Integrante 4] | Desarrollador Frontend |
-| [Integrante 5] | Tester / QA |
+| Carlos Manuel Iriarte Meza | Líder de Proyecto |
+| David Arturo Márquez Castro | Analista de Requerimientos |
+| Rogelio Guerrero Valenzuela | Desarrollador Backend (Dev A) |
+| Yang Paulo Sánchez Zambada | Desarrollador Frontend (Dev B) |
+| Juan Carlos Corrales Ochoa | Tester / QA |
 
 ## Agenda
 
 | # | Tema | Responsable | Duración |
 | --- | --- | --- | --- |
-| 1 | Lectura del contrato correspondiente a la Petición 01 (Fine Shoes) con todo el equipo | Líder de Proyecto | 10 minutos |
-| 2 | Apertura de la reunión e informe del objetivo | Líder de Proyecto | 5 minutos |
-| 3 | Entrega al equipo del documento de contrato con la descripción de los requerimientos: 1) Registro y autenticación, 2) Catálogo e inventario, 3) Carrito, 4) Pedidos, 5) Reportes, 6) Importación de productos | Líder de Proyecto | 10 minutos |
+| 1 | Lectura del contrato correspondiente a la Petición 01 (Fine Shoes) con todo el equipo | Carlos Manuel Iriarte Meza | 10 minutos |
+| 2 | Apertura de la reunión e informe del objetivo | Carlos Manuel Iriarte Meza | 5 minutos |
+| 3 | Entrega al equipo del documento de contrato con la descripción de los requerimientos: 1) Registro y autenticación, 2) Catálogo e inventario, 3) Carrito, 4) Pedidos, 5) Reportes, 6) Importación de productos | David Arturo Márquez Castro | 10 minutos |
 
 ## Acuerdos
 
@@ -43,4 +43,4 @@
 
 ## Comentarios
 
-[Comentarios adicionales]
+Sin comentarios adicionales.

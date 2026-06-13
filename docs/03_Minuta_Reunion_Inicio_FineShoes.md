@@ -7,37 +7,37 @@
 
 | Número Versión | Fecha Versión | Tipo Cambio | Dueño/Autor | Aprobado por | Fecha Revisión/Expiración |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [DD/MM/AAAA] | Creación de documento | [Nombre] | [Nombre] | [DD/MM/AAAA] |
+| 1 | 28/05/2026 | Creación de documento | David Arturo Márquez Castro | Carlos Manuel Iriarte Meza | 12/06/2026 |
 
 ## Datos de la Reunión
 
 | Reunión # | Objetivo | Fecha de Elaboración |
 | --- | --- | --- |
-| 1 | Reunión de inicio de proyecto | [DD/MM/AAAA] |
+| 1 | Reunión de inicio de proyecto | 28/05/2026 |
 
 | Lugar | Fecha | Hora | Convocada por |
 | --- | --- | --- | --- |
-| [Salón / Plataforma] | [DD/MM/AAAA] | [HH:MM] | [Nombre, Scrum Master] |
+| Sala de juntas / Google Meet | 28/05/2026 | 17:00 | Carlos Manuel Iriarte Meza |
 
 ## Asistentes
 
 | Nombre | Rol |
 | --- | --- |
-| [Integrante 1] | Líder de Proyecto / Scrum Master |
-| [Integrante 2] | Analista de Requerimientos |
-| [Integrante 3] | Desarrollador Backend |
-| [Integrante 4] | Desarrollador Frontend |
-| [Integrante 5] | Tester / QA |
+| Carlos Manuel Iriarte Meza | Líder de Proyecto / Scrum Master |
+| David Arturo Márquez Castro | Analista de Requerimientos |
+| Rogelio Guerrero Valenzuela | Desarrollador Backend (Dev A) |
+| Yang Paulo Sánchez Zambada | Desarrollador Frontend (Dev B) |
+| Juan Carlos Corrales Ochoa | Tester / QA |
 
 ## Agenda
 
 | # | Tema | Responsable | Duración |
 | --- | --- | --- | --- |
-| 1 | Presentación del equipo de proyecto | Líder de Proyecto | 10 minutos |
-| 2 | Presentación de la iniciativa "Fine Shoes" (objetivo, alcance, módulos) | Líder de Proyecto | 15 minutos |
-| 3 | Presentación del stack tecnológico (FastAPI, MySQL, JS) | Analista de Requerimientos | 10 minutos |
-| 4 | Revisión preliminar del backlog de historias de usuario | Analista de Requerimientos | 15 minutos |
-| 5 | Asignación inicial de roles y primeras tarjetas del Sprint 1 | Líder de Proyecto | 10 minutos |
+| 1 | Presentación del equipo de proyecto | Carlos Manuel Iriarte Meza | 10 minutos |
+| 2 | Presentación de la iniciativa "Fine Shoes" (objetivo, alcance, módulos) | Carlos Manuel Iriarte Meza | 15 minutos |
+| 3 | Presentación del stack tecnológico (FastAPI, MySQL, JS) | David Arturo Márquez Castro | 10 minutos |
+| 4 | Revisión preliminar del backlog de historias de usuario | David Arturo Márquez Castro | 15 minutos |
+| 5 | Asignación inicial de roles y primeras tarjetas del Sprint 1 | Carlos Manuel Iriarte Meza | 10 minutos |
 
 ## Acuerdos
 
@@ -52,10 +52,10 @@
 
 | # | Acción | Responsable | Fecha de Vencimiento |
 | --- | --- | --- | --- |
-| 1 | Crear repositorio en GitHub y dar acceso a todo el equipo | [Nombre] | [DD/MM/AAAA] |
-| 2 | Configurar entorno de desarrollo (backend + base de datos) | [Nombre] | [DD/MM/AAAA] |
-| 3 | Iniciar desarrollo de las historias asignadas en el Sprint 1 | Todo el equipo | [DD/MM/AAAA] |
+| 1 | Crear repositorio en GitHub y dar acceso a todo el equipo | Carlos Manuel Iriarte Meza | 30/05/2026 |
+| 2 | Configurar entorno de desarrollo (backend + base de datos) | Rogelio Guerrero Valenzuela | 02/06/2026 |
+| 3 | Iniciar desarrollo de las historias asignadas en el Sprint 1 | Todo el equipo | 02/06/2026 |
 
 ## Comentarios
 
-[Comentarios adicionales del equipo]
+Sin comentarios adicionales.

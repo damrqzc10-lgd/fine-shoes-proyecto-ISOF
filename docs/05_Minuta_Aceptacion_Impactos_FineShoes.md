@@ -4,31 +4,31 @@
 
 | Número Versión | Fecha Versión | Tipo Cambio | Dueño/Autor | Aprobado por | Fecha Revisión/Expiración |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [DD/MM/AAAA] | Creación de documento | [Nombre] | [Nombre] | [DD/MM/AAAA] |
+| 1 | 02/06/2026 | Creación de documento | David Arturo Márquez Castro | Carlos Manuel Iriarte Meza | 12/06/2026 |
 
 ## Datos de la Reunión
 
 | Reunión # | Objetivo | Fecha de Elaboración |
 | --- | --- | --- |
-| 2 | Reunión de Aceptación de Impactos de Requerimientos | [DD/MM/AAAA] |
+| 2 | Reunión de Aceptación de Impactos de Requerimientos | 02/06/2026 |
 
 | Lugar | Fecha | Hora | Convocada por |
 | --- | --- | --- | --- |
-| [Salón / Plataforma] | [DD/MM/AAAA] | [HH:MM] | [Nombre] |
+| Sala de juntas / Google Meet | 02/06/2026 | 17:00 | Carlos Manuel Iriarte Meza |
 
 ## Asistentes
 
 | Nombre | Rol |
 | --- | --- |
-| [Integrante 1] | Líder de Proyecto |
-| [Integrante 2] | Analista de Requerimientos |
+| Carlos Manuel Iriarte Meza | Líder de Proyecto |
+| David Arturo Márquez Castro | Analista de Requerimientos |
 
 ## Agenda
 
 | # | Tema | Responsable | Duración |
 | --- | --- | --- | --- |
-| 1 | Presentar los requerimientos detectados para el desarrollo del contrato (Petición 01) | Líder de Proyecto | 10 minutos |
-| 2 | Entregar al equipo el documento de requerimientos detectados | Analista de Requerimientos | 10 minutos |
+| 1 | Presentar los requerimientos detectados para el desarrollo del contrato (Petición 01) | Carlos Manuel Iriarte Meza | 10 minutos |
+| 2 | Entregar al equipo el documento de requerimientos detectados | David Arturo Márquez Castro | 10 minutos |
 
 ## Acuerdos
 
@@ -36,8 +36,8 @@
 | --- | --- |
 | 1 | Requerimientos detectados: 1) Registro y autenticación de usuarios, 2) Catálogo e inventario de productos, 3) Carrito de compras, 4) Checkout y gestión de pedidos, 5) Reportes administrativos, 6) Importación de productos desde API externa. |
 | 2 | Riesgos identificados: si el cliente solicita nuevos requerimientos, se versiona la petición; cambios después de la elicitación pueden generar retrabajo para el analista. |
-| 3 | Se estiman [N] casos de uso para esta petición. |
+| 3 | Se estiman 6 casos de uso para esta petición. |
 
 ## Comentarios
 
-[Comentarios adicionales]
+Sin comentarios adicionales.
