@@ -11,7 +11,7 @@
 | Módulo | Ventas, Inventario, Usuarios y Reportes |
 | Opción | Catálogo, Carrito, Pedidos, Administración |
 | Nombre | Sistema de comercio electrónico Fine Shoes |
-| Área | Ventas y operaciones de la mueblería/tienda (e-commerce) |
+| Área | Ventas y operaciones de la tienda de calzado (e-commerce) |
 
 ### 1.2 Alcance
 
